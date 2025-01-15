@@ -1,4 +1,6 @@
 #Default
+#.gitignore
+#*.md
 .vscode
 *.out
 *.o
@@ -24,3 +26,7 @@ main.c
 .vscode/
 .DS_Store
 
+#project
+pipex
+fractol
+push_swap
